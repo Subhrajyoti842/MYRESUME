@@ -1,0 +1,36 @@
+{
+  "name": "portfolio2",
+  "version": "1.0.0",
+  "description": "It is personal portifolio website of hanuman singh (hanumansingh.tech) built using react.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "1.2.36",
+    "@fortawesome/free-brands-svg-icons": "5.15.4",
+    "@fortawesome/free-regular-svg-icons": "5.15.4",
+    "@fortawesome/react-fontawesome": "0.1.15",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "^5.0.1",
+    "react-scrollspy-nav": "1.2.4",
+    "styled-components": "5.3.0"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "customize-cra": "^1.0.0",
+    "react-app-rewired": "^2.2.1",
+    "typescript": "^3.2.1"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
